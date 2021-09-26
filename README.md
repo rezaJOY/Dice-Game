@@ -27,6 +27,7 @@ What you will learn
 	>>	Understand and use string interpolation.
 	>>	Learn about basic dart programming concepts such as data types and functions.
 	>>	Code and use gesture controls.
+	>>      lastly basics of flutter
 
 
 
